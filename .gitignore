@@ -1,0 +1,6 @@
+node_modules
+public/assets/bower
+public
+public/modules
+public/assets/javascripts/gulpcache
+views/partials
